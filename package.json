@@ -25,5 +25,8 @@
     "javascript",
     "hello world",
     "hello world js"
-  ]
+  ],
+  "dependencies": {
+    "hello-world-js": "^0.0.2"
+  }
 }
